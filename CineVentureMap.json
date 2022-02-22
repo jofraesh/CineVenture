@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet.jit.si\/CineVentureTEST"
+                 "value":"meet.jit.si\/CineVentureEntryspace"
                 }],
          "type":"tilelayer",
          "visible":true,
